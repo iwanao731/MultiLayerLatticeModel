@@ -1,0 +1,75 @@
+<Widget>
+    <Kind>17</Kind>
+    <Name>LAYER SET</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>R</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>B</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>M</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>F</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>S</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>0</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>1</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>2</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>3</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>4</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>5</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>6</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>7</Name>
+    <Value>0.300000012</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>BONE_DIST</Name>
+    <Value>15.000000000</Value>
+</Widget>

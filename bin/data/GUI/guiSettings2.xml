@@ -1,0 +1,35 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>WIDTH</Name>
+    <Value>3.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>F_STIFFNESS</Name>
+    <Value>0.500000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>F_DAMP</Name>
+    <Value>0.500000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>S_STIFFNESS</Name>
+    <Value>1.700000048</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>S_DAMP</Name>
+    <Value>0.400000006</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>M_STIFFNESS</Name>
+    <Value>1.799999952</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>M_DAMP</Name>
+    <Value>0.600000024</Value>
+</Widget>
