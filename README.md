@@ -18,4 +18,15 @@ Demo: https://www.youtube.com/watch?v=xgx6M9o_RUs
 + ofxLSM (original)
 + ofxOBJ (original)
 
-# Model
+まとめてここでダウンロード: https://drive.google.com/open?id=0B-q5ebp6ik93ZHFHYXBCRDhfVWM
+
+## Model
+Rabbitモデル(bin/data以下を参照)
+
+## Control
++ s : アニメーションstart/stop
++ f : フルスクリーンのon/off
++ g : GUIのon/off
++ r : リセット
++ p : 頂点選択
++ w : ワイヤー表示
